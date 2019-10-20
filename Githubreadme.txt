@@ -9,5 +9,7 @@ I'm programing bigineer!!
 １．更新方法　テキストの所で変更を行う
 
 ２．Messageの所で変更を行う更新の変更を行う
-
-３．git push origin masterと入力する。 
+※would you like to automatically stage all your changes and commit them directly
+翻訳：すべての変更を自動的にステージングして、直接コミットしますか？
+alwaysにする
+３．
