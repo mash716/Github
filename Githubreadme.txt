@@ -12,4 +12,4 @@ I'm programing bigineer!!
 ※would you like to automatically stage all your changes and commit them directly
 翻訳：すべての変更を自動的にステージングして、直接コミットしますか？
 alwaysにする
-３．
+３．syc(同期)とする
