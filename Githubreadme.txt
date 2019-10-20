@@ -10,4 +10,4 @@ I'm programing bigineer!!
 
 ２．Messageの所で変更を行う更新の変更を行う
 
-３．mastet
+３．git push origin masterと入力する
