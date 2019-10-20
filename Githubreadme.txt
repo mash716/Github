@@ -9,3 +9,5 @@ I'm programing bigineer!!
 １．更新方法　テキストの所で変更を行う
 
 ２．Messageの所で変更を行う更新の変更を行う
+
+３．
